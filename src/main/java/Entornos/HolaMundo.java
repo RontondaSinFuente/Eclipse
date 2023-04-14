@@ -8,6 +8,7 @@ public class HolaMundo {
 		System.out.println("Hola");
 		System.out.println("Holaa");
 		System.out.println("Holaaa");
+		System.out.println("otra linea");
 	}
 
 }
